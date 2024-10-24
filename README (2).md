@@ -43,7 +43,7 @@ To meet these challenges, you can automate deployments and use the practice of i
 
 ## System Architecture Flowchart
 
-![Screenshot2]()
+![](https://github.com/Gauravgesture/Pythonencrypt/blob/bd9a84dd23d7fba07ec97c1a3a28bdfa222beb3d/Screenshot%202024-10-24%20151042.png)
 ##  Resources Created
 - __Front end web app__
 Azure Web App Service is a fully managed platform designed for building, deploying, and scaling web applications across multiple programming languages such as .NET, Node.js, and Python. Additionally, the service provides robust monitoring and diagnostics capabilities through Azure Monitor and Application Insights, enabling developers to efficiently manage application performance and troubleshoot issues.
