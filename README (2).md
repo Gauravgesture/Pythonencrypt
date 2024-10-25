@@ -48,6 +48,7 @@ To meet these challenges, you can automate deployments and use the practice of i
 
 ## Steps to follow
 - Go to edit the template section
+- 
   ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104824.png)
 
 - You can see the Arm template code here
