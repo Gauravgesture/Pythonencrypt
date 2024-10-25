@@ -48,33 +48,33 @@ To meet these challenges, you can automate deployments and use the practice of i
 
 ## Steps to follow
 - Go to edit the template section
-  <br/>
+
   ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104824.png)
- <br/>
+
 - You can see the Arm template code here
-   <br/>
+  
   ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104848.png)
- <br/>
+  
 
   - Here you have to select your resource group as well as the region and resource prefix name
-    <br/>
+    
     ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104933.png)
-  <br/>
+
   - Provide the administrative password for credentials
-     <br/>
+     
     ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104943.png)
-     <br/>
+     
 
     - Provide the bot id and Ms app id which you will get after running the script and attach it
-       <br/>
+       
 
     ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104952.png)
-     <br/>
+     
 
     - Click on create and it will start Custom deploying your application services
-       <br/>
+       
    ![](https://github.com/Gauravgesture/Pythonencrypt/blob/9975750d9a8deb8c715d2dfa37b9d1c50f45d9d3/Screenshot%202024-10-25%20101550.png)
- <br/>
+  
 
    
 
