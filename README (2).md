@@ -44,6 +44,33 @@ To meet these challenges, you can automate deployments and use the practice of i
 ## System Architecture Flowchart
 
 ![](https://github.com/Gauravgesture/Pythonencrypt/blob/bd9a84dd23d7fba07ec97c1a3a28bdfa222beb3d/Screenshot%202024-10-24%20151042.png)
+
+
+## Steps to follow
+- Go to edit the template section
+  ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104824.png)
+
+- You can see the Arm template code here
+  ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104848.png)
+
+  - Here you have to select your resource group as well as the region and resource prefix name
+    ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104933.png)
+
+  - Provide the administrative password for credentials
+    ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104943.png)
+
+    - Provide the bot id and Ms app id which you will get after running the script and attach it
+
+    ![](https://github.com/Gauravgesture/Pythonencrypt/blob/d1720755e16a93f9b6bc408ba13f783b6381c5be/Screenshot%202024-10-25%20104952.png)
+
+    - Click on create and it will start Custom deploying your application services
+   ![](https://github.com/Gauravgesture/Pythonencrypt/blob/9975750d9a8deb8c715d2dfa37b9d1c50f45d9d3/Screenshot%202024-10-25%20101550.png)
+
+   
+
+
+
+
 ##  Resources Created
 - __Front end web app__
 Azure Web App Service is a fully managed platform designed for building, deploying, and scaling web applications across multiple programming languages such as .NET, Node.js, and Python. Additionally, the service provides robust monitoring and diagnostics capabilities through Azure Monitor and Application Insights, enabling developers to efficiently manage application performance and troubleshoot issues.
